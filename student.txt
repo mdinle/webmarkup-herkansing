@@ -1,0 +1,5 @@
+student name: Mohamed Dinle
+student number: 700152
+student class: INF2A 
+URL student GitHub website: https://github.com/mdinle
+URL student GitHub repository: https://github.com/mdinle/webmarkup-herkansing
